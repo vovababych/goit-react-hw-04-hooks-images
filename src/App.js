@@ -22,6 +22,7 @@ function App() {
 
   useEffect(() => {
     fetchGallary();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchQuery]);
 
   const fetchGallary = () => {

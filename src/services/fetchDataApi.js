@@ -25,7 +25,9 @@ export default fetchDataApi;
 
 // const fetchDataApi = async (searchQuery, page = 1) => {
 //   try {
-//     const { data } = await axios.get('', { params: { searchQuery, page } });
+//     const { data } = await axios.get('', {
+//       params: { searchQuery, page },
+//     });
 //     return data;
 //   } catch (error) {
 //     console.log('error', error);
