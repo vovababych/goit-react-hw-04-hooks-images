@@ -1,5 +1,12 @@
 **Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**
 
+## Поиск изображений
+
+- Создан репозиторий `goit-react-hw-04-hooks-images`.
+- Проведи рефакторинг кода задания
+  [Поиск изображений](https://github.com/vovababych/goit-react-hw-03-phonebook)
+  используя React-хуки.
+
 # Критерії прийому
 
 - Створено репозиторії `goit-react-hw-03-image-finder`
